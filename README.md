@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanhuaan
 - 👀 I’m interested in software development and database management.
 - 🌱 I’m currently learning Software Architechture.
-- 🖥️ Looking for a SDE DE job right now!
+- 🖥️ Looking for an SDE or DE job right now!
 - 📫 How to reach me juanhuaa@usc.edu
 
 <!---
