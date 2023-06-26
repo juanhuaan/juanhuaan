@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Software Architechture.
 - 🖥️ Looking for an SDE or DE job right now!
-- 📫 How to reach me juanhuaa@usc.edu
+- 📫 How to reach me juanhuaan@gmail.com
 
 <!---
 juanhuaan/juanhuaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
